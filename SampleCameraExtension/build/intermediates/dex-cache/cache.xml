@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\b1013173\AppData\Local\Android\sdk1\add-ons\addon-sony_smarteyeglass_sdk-sony-19\samples\SampleCameraExtension\app\build\intermediates\exploded-aar\SampleCameraExtension\SmartExtensionUtils\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f3b7396836989217db5e9c5cf4bb5cb5105f225b">
+        <dex dex="C:\Users\b1013173\AppData\Local\Android\sdk1\add-ons\addon-sony_smarteyeglass_sdk-sony-19\samples\SampleCameraExtension\app\build\intermediates\pre-dexed\debug\classes-3410c0ed5c4d38fd64ec4fe3940021a51fc8987e.jar" />
+    </item>
+    <item
+        jar="C:\Users\b1013173\AppData\Local\Android\sdk1\add-ons\addon-sony_smarteyeglass_sdk-sony-19\samples\SampleCameraExtension\app\build\intermediates\exploded-aar\SampleCameraExtension\SmartEyeglassAPI\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="290b6ed652a6b7c98bd9c3442919f458c6f616b9">
+        <dex dex="C:\Users\b1013173\AppData\Local\Android\sdk1\add-ons\addon-sony_smarteyeglass_sdk-sony-19\samples\SampleCameraExtension\app\build\intermediates\pre-dexed\debug\classes-c1631f6a314f351ec066f86fd3a741d43f08eb02.jar" />
+    </item>
+    <item
+        jar="C:\Users\b1013173\AppData\Local\Android\sdk1\add-ons\addon-sony_smarteyeglass_sdk-sony-19\samples\SampleCameraExtension\app\build\intermediates\exploded-aar\SampleCameraExtension\SmartExtensionAPI\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="343fc45439d7ff800b47a09a9324dc51b9bdbd03">
+        <dex dex="C:\Users\b1013173\AppData\Local\Android\sdk1\add-ons\addon-sony_smarteyeglass_sdk-sony-19\samples\SampleCameraExtension\app\build\intermediates\pre-dexed\debug\classes-f5e72d40fd986c62ee60149056d58dcc4f040157.jar" />
+    </item>
+
+</items>
